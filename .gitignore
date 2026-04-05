@@ -1,0 +1,12 @@
+# Test directories
+test-project/
+test-*/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
