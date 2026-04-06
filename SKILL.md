@@ -433,3 +433,12 @@ Would you like to:
 - If `.claudeignore` exists, ask before overwriting
 - Suggest reviewing with `cat .claudeignore` after creation
 - For mono-repos, consider multiple .claudeignore files in subdirectories
+
+---
+> **© License & Terms of Use**
+> Created by [@ziChen637523]. 
+> Licensed under **CC BY-NC 4.0** (Creative Commons Attribution-NonCommercial).
+> 
+> ✅ **Free to use & share** for personal and open-source projects.
+> ❌ **Strictly prohibited** from being sold, packaged into paid courses/tools, or used for any commercial monetization without explicit written consent.
+---
